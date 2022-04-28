@@ -1,0 +1,49 @@
+.TodoInput {
+    width: 300px;
+    margin-top: 50px;
+    margin-right: 20px;
+    height: 30px;
+    text-align: center;
+    background-color: burlywood;
+    border: none;
+    color: black;
+    font-size: 18px;
+}
+
+.Todobtn {
+    width: 160px;
+    height: 35px;
+    background-color: rgb(53, 51, 49);
+    color: aliceblue;
+    border: none;
+}
+
+.Todobtn:hover {
+    background-color: teal;
+    color: rgb(0, 0, 0);
+}
+
+.TodoDiv {
+    margin-top: 20px;
+}
+
+#togglebtn {
+    width: 100px;
+    /* margin-left: 20px; */
+    background-color: aquamarine;
+    border: none;
+    font-size: 15px;
+    height: 30px;
+    margin-top: 20px;
+}
+
+#togglebtn:hover {
+    background-color: teal;
+    color: rgb(0, 0, 0);
+}
+
+#Todotitle {
+    margin-top: 15px;
+    font-weight: bolder;
+    font-size: 20px;
+}
